@@ -59,7 +59,9 @@ import javafx.util.Duration;
  */
 public class CubeSystem3D extends Application {
 
-/* git gud*/
+/* 
+git gud
+*/
 
 
     private Timeline animation;
